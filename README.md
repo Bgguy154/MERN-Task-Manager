@@ -160,9 +160,6 @@ Inside backend folder:
 
 ## Useful Links
 
-- This project
-
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
 
 - Official Docs
 
@@ -187,7 +184,3 @@ Inside backend folder:
   - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
   - CSS Selectors Cheatsheet: https://frontend30.com/css-selectors-cheatsheet/
 
-## Contact
-
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
